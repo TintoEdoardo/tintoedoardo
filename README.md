@@ -1,5 +1,5 @@
 ## About me
-I am a postdoctoral researcher at the German Aerospace Center (DLR) working with WebAssembly and Ada. 
+I am a postdoctoral researcher at the German Aerospace Center (DLR) working with WebAssembly and Ada. <br>
 More about my work at [tintoedoardo.github.io](https://tintoedoardo.github.io/). 
 
 Some of my open-source works: 
